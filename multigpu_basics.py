@@ -1,4 +1,4 @@
-from __future__ import print_function
+import print_function from __future__
 
 import numpy as np
 import tensorflow as tf
